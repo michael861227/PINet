@@ -1,8 +1,10 @@
 # (ICME 2022) Finding the Achilles Heel: Progressive Identification Network for Camouflaged Object Detection
+Paper for our Progressive Identification Network, also called PINet [[PDF](https://basiclab.lab.nycu.edu.tw/assets/COD-ICME.pdf)], published at ICME 2022
 
 ## Model Architecture
 
 ![PINet](./Model.png)
+
 
 ## Prerequisites
 
@@ -53,3 +55,14 @@ python test.py
 ## Citation
 
 If you find our paper useful in your research, please cite us using the following entry:
+```
+@INPROCEEDINGS{9859854,
+  author={Chou, Mu-Chun and Chen, Hung-Jen and Shuai, Hong-Han},
+  booktitle={2022 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  title={Finding the Achilles Heel: Progressive Identification Network for Camouflaged Object Detection}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ICME52920.2022.9859854}}
+```
